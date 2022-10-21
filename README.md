@@ -1,6 +1,7 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
+
 **iDawer/iDawer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Software Engineer (Rust)
+Ilnur Iskhakov
+[github.com/iDawer](https://github.com/iDawer)
+
+:monocle_face: I'm open for hiring!
+<br/>
+:speech_balloon: Reach me for job inquiries: `job.ilnur.iskhakov` _at_ `outlook` _dot_ `com`
+
+ - I know well **Rust**, **Linux**, **Bash**, **Python**.
+ - I have basic knowledge in _C/C++, cryptography primitives, Java, C#,
+   JavaScript, HTML/CSS, Lua, SQL, Assembler_.
+ - I'm pretty into bicycling.
+
+
