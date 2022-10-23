@@ -21,6 +21,7 @@ Ilnur Iskhakov
 [github.com/iDawer](https://github.com/iDawer)
 
 :monocle_face: I'm open for hiring!
+[Resume](https://github.com/iDawer/iDawer/blob/master/resume_junior-rust-dev_ilnur-iskhakov.pdf)
 <br/>
 :speech_balloon: Reach me for job inquiries: `job.ilnur.iskhakov` _at_ `outlook` _dot_ `com`
 
